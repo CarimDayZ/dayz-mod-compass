@@ -27,7 +27,7 @@ class CfgMods
 			{
 				files[] =
 				{
-					"SchanaModCompass/Mission"
+					"SchanaModCompass/5_Mission"
 				};
 			};
 		};
